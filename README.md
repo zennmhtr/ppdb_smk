@@ -6,7 +6,7 @@ Aplikasi Penerimaan Peserta Didik Baru ( PPDB ) SMK Bina Karawang 2 ini yaitu se
 <br>
 1. Clone Local
 2. git bash - git clone (url repository)
-3. Done
+3. Composer 
 
 ***Menu - Menu Aplikasi PPDB***
 <br>
@@ -19,6 +19,6 @@ Aplikasi Penerimaan Peserta Didik Baru ( PPDB ) SMK Bina Karawang 2 ini yaitu se
 1. Aplikasi Editor ( Visual Studio Code )
 2. PHP (version 7+)
 3. XAMPP v3.2.2 
-4. Composer
+
 
 
