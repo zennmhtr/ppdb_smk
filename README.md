@@ -12,7 +12,7 @@ Aplikasi Penerimaan Peserta Didik Baru ( PPDB ) SMK Bina Karawang 2 ini yaitu se
 <br>
 - Dashboard PPDB ( Form Pendaftaran Siswa, Statistik Data, Kuota Pendaftar, Info Pendaftaran & Login Admin )
 - Menu Admin ( Profil Kelembagaan, Data PPDB, Cetak & Akun Admin)
-- Menu Siswa / user ( Formulir, Upload Berkas, Cetak Kartu Pendaftaran, Daftar Ulang, Pembayaran, Pengumuman )
+- Menu Siswa / User ( Formulir, Upload Berkas, Cetak Kartu Pendaftaran, Daftar Ulang, Pembayaran, Pengumuman )
 
 ***Komponen - Komponen***
 <br>
@@ -23,4 +23,5 @@ Aplikasi Penerimaan Peserta Didik Baru ( PPDB ) SMK Bina Karawang 2 ini yaitu se
 ***Login Administrator***
 <br>
 Username : admin
+<br>
 Password : secret
