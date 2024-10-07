@@ -20,7 +20,7 @@ Aplikasi Penerimaan Peserta Didik Baru ( PPDB ) SMK Bina Karawang 2 ini yaitu se
 2. PHP (version 7+)
 3. XAMPP v3.2.2 
 
-***Login Administrator***
+***Login Administrator***<br>
 Username : admin
 <br>
 Password : secret
